@@ -1,0 +1,18 @@
+O que é expressão regular (regex)?
+  Resposta: É uma sequência de caracteres que forma um padrão de pesquisa.
+  Dica: Pensar em uma expressão regular como uma forma compacta de descrever padrões em texto.
+  Uso: Usada para corresponder e manipular strings conforme especificações detalhadas.
+  Analogia: Podemos fazer uma analogia a um filtro sofisticado que pode encontrar e manipular padrões específicos dentro de grandes volumes de texto.
+
+Onde usar expressão regular (regex)?
+  Resposta: Expressões regulares são usadas em diversas situações:
+    * Validações de textos:
+      Verificar se os dados inseridos por um usuário seguem um formato específico.
+    * Criação de máscaras:
+      Aplicar formatações específicas em entradas de dados.
+    * Criação de crawlers:
+      Desenvolver scripts para navegar na web e extrair dados automaticamente de sites.
+    * Web scraping:
+      Navegar em HTML e extrair informações específicas de páginas web.
+    * Transformação de texto:
+      Manipular e reformular strings complexas conforme padrões definidos.
